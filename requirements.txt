@@ -1,0 +1,11 @@
+requests==2.32.3
+selenium==4.9.0
+webdriver-manager==4.0.2
+beautifulsoup4==4.12.3
+curl_cffi==0.5.10
+pandas==2.2.3
+plotly==5.22.0
+streamlit==1.40.2
+tqdm==4.67.1
+ipykernel
+ipywidgets==8.0.6
